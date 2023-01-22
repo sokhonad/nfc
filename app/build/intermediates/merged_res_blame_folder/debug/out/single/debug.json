@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/layout_list_group.xml.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/layout/list_group.xml"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/layout_activity_input.xml.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/layout/activity_input.xml"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/layout_list_item.xml.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/sokhona/Images/nfc-explorer/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/sokhona/Images/nfc-explorer/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]

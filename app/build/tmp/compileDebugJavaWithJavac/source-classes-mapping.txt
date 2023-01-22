@@ -1,0 +1,20 @@
+com/infertux/nfcexplorer/BuildConfig.java
+ com.infertux.nfcexplorer.BuildConfig
+com/infertux/nfcexplorer/DatabaseHelper.java
+ com.infertux.nfcexplorer.DatabaseHelper
+com/infertux/nfcexplorer/Utils.java
+ com.infertux.nfcexplorer.Utils
+ com.infertux.nfcexplorer.Utils$1
+ com.infertux.nfcexplorer.Utils$2
+com/infertux/nfcexplorer/TagWrapper.java
+ com.infertux.nfcexplorer.TagWrapper
+com/infertux/nfcexplorer/TagTechList.java
+ com.infertux.nfcexplorer.TagTechList
+com/infertux/nfcexplorer/CustomExpandableListAdapter.java
+ com.infertux.nfcexplorer.CustomExpandableListAdapter
+com/infertux/nfcexplorer/InputActivity.java
+ com.infertux.nfcexplorer.InputActivity
+ com.infertux.nfcexplorer.InputActivity$1
+com/infertux/nfcexplorer/MainActivity.java
+ com.infertux.nfcexplorer.MainActivity
+ com.infertux.nfcexplorer.MainActivity$1

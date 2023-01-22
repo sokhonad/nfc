@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sokhona/.gradle/caches/transforms-3/dd9dad22402f7a3cb15c84968d1999e3/transformed/constraint-layout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:28.0.0] /home/sokhona/.gradle/caches/transforms-3/d22d9d5d10d567994fe3dbc162143808/transformed/design-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/b8d9da8a31367dd724469158d65dfc56/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sokhona/.gradle/caches/transforms-3/5a7e8aab4d37661469284a2a24396adf/transformed/support-fragment-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/6c72c81737491cd193061b8c3ac102a6/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/4fc64e2998fff490450e80f18ee11a43/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sokhona/.gradle/caches/transforms-3/afc876b5416d1f9dcd8725c51398264d/transformed/support-core-ui-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sokhona/.gradle/caches/transforms-3/da6e3d7f1c8c560054fea629a0a61360/transformed/support-core-utils-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/ca38e8620a49c45ec579ae5f4c6fc1dd/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fbd2dcb4417c0f696dbf6672524ca6d9/transformed/transition-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/sokhona/.gradle/caches/transforms-3/201e849202369341b8213dc2428811e9/transformed/loader-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1698173b88bb17eb8c033b6e85bc7815/transformed/viewpager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/665ee96ffa9fd7df853a54752c314be0/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/725f0a9cdd06d4234649d181023625e2/transformed/drawerlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1654654d6ceec3bf67cb32c2ff09a4da/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2c61fcebd4866e32ce9594d1c0ae3729/transformed/customview-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/02e18609b78db082bc9c4b5318a4449c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fc6d17ad7cf6f926431f2efdf49a90c4/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/13ce6bbcd1668342ff4adc4ab63bf3af/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sokhona/.gradle/caches/transforms-3/c5442ea79387cf6eab890bf56d99abbc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/70d454cead1bc97e80aa4f6f1caf85a6/transformed/cardview-v7-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/50d4c2992d50ca090d5ef70735dec982/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/sokhona/.gradle/caches/transforms-3/61fdb63abccb8324835a3a14226ccbcf/transformed/documentfile-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/62b92e74a560ee1ebb32baf9f36f3ac8/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/sokhona/.gradle/caches/transforms-3/df307024b8817cdf91c7ef2f260e9d57/transformed/print-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f4c1ff7f8aba853531a910ef5bd02e62/transformed/viewmodel-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/sokhona/.gradle/caches/transforms-3/00da622ffc293d6b6cd9af17084c49d4/transformed/interpolator-28.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f6b10b57234d39b300b2e06b7f2e3db7/transformed/livedata-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sokhona/.gradle/caches/transforms-3/b098413db3d4053653e53dbe9b235bae/transformed/livedata-core-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/cf038020c63ab3deff5900ea5c92f6bd/transformed/runtime-1.1.1/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.NFC
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:5:5-62
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:5:22-59
+uses-feature#android.hardware.nfc
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:7:5-9:35
+	android:required
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:9:9-32
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:8:9-44
+application
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:11:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sokhona/.gradle/caches/transforms-3/dd9dad22402f7a3cb15c84968d1999e3/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sokhona/.gradle/caches/transforms-3/dd9dad22402f7a3cb15c84968d1999e3/transformed/constraint-layout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sokhona/.gradle/caches/transforms-3/d22d9d5d10d567994fe3dbc162143808/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/sokhona/.gradle/caches/transforms-3/d22d9d5d10d567994fe3dbc162143808/transformed/design-28.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/13ce6bbcd1668342ff4adc4ab63bf3af/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/13ce6bbcd1668342ff4adc4ab63bf3af/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:14:9-41
+	android:icon
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:16:9-40
+activity#com.infertux.nfcexplorer.InputActivity
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:exported
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:18:13-42
+meta-data#android.app.lib_name
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:20:13-22:36
+	android:value
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:22:17-33
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:21:17-52
+activity#com.infertux.nfcexplorer.MainActivity
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:24:9-33:20
+	android:label
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml:31:27-74
+uses-sdk
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sokhona/.gradle/caches/transforms-3/dd9dad22402f7a3cb15c84968d1999e3/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:2.0.4] /home/sokhona/.gradle/caches/transforms-3/dd9dad22402f7a3cb15c84968d1999e3/transformed/constraint-layout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:28.0.0] /home/sokhona/.gradle/caches/transforms-3/d22d9d5d10d567994fe3dbc162143808/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/sokhona/.gradle/caches/transforms-3/d22d9d5d10d567994fe3dbc162143808/transformed/design-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/b8d9da8a31367dd724469158d65dfc56/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/b8d9da8a31367dd724469158d65dfc56/transformed/appcompat-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sokhona/.gradle/caches/transforms-3/5a7e8aab4d37661469284a2a24396adf/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/sokhona/.gradle/caches/transforms-3/5a7e8aab4d37661469284a2a24396adf/transformed/support-fragment-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/6c72c81737491cd193061b8c3ac102a6/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/6c72c81737491cd193061b8c3ac102a6/transformed/animated-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/4fc64e2998fff490450e80f18ee11a43/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/4fc64e2998fff490450e80f18ee11a43/transformed/recyclerview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sokhona/.gradle/caches/transforms-3/afc876b5416d1f9dcd8725c51398264d/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/sokhona/.gradle/caches/transforms-3/afc876b5416d1f9dcd8725c51398264d/transformed/support-core-ui-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sokhona/.gradle/caches/transforms-3/da6e3d7f1c8c560054fea629a0a61360/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/sokhona/.gradle/caches/transforms-3/da6e3d7f1c8c560054fea629a0a61360/transformed/support-core-utils-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/ca38e8620a49c45ec579ae5f4c6fc1dd/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/ca38e8620a49c45ec579ae5f4c6fc1dd/transformed/support-vector-drawable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fbd2dcb4417c0f696dbf6672524ca6d9/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fbd2dcb4417c0f696dbf6672524ca6d9/transformed/transition-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sokhona/.gradle/caches/transforms-3/201e849202369341b8213dc2428811e9/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/sokhona/.gradle/caches/transforms-3/201e849202369341b8213dc2428811e9/transformed/loader-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1698173b88bb17eb8c033b6e85bc7815/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1698173b88bb17eb8c033b6e85bc7815/transformed/viewpager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/665ee96ffa9fd7df853a54752c314be0/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/665ee96ffa9fd7df853a54752c314be0/transformed/coordinatorlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/725f0a9cdd06d4234649d181023625e2/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/725f0a9cdd06d4234649d181023625e2/transformed/drawerlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1654654d6ceec3bf67cb32c2ff09a4da/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/1654654d6ceec3bf67cb32c2ff09a4da/transformed/slidingpanelayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2c61fcebd4866e32ce9594d1c0ae3729/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2c61fcebd4866e32ce9594d1c0ae3729/transformed/customview-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/02e18609b78db082bc9c4b5318a4449c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/sokhona/.gradle/caches/transforms-3/02e18609b78db082bc9c4b5318a4449c/transformed/swiperefreshlayout-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fc6d17ad7cf6f926431f2efdf49a90c4/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/sokhona/.gradle/caches/transforms-3/fc6d17ad7cf6f926431f2efdf49a90c4/transformed/asynclayoutinflater-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/sokhona/.gradle/caches/transforms-3/2535f8c2c8988b6083b22e43afae43c0/transformed/support-compat-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/13ce6bbcd1668342ff4adc4ab63bf3af/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/sokhona/.gradle/caches/transforms-3/13ce6bbcd1668342ff4adc4ab63bf3af/transformed/versionedparcelable-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sokhona/.gradle/caches/transforms-3/c5442ea79387cf6eab890bf56d99abbc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/sokhona/.gradle/caches/transforms-3/c5442ea79387cf6eab890bf56d99abbc/transformed/cursoradapter-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/70d454cead1bc97e80aa4f6f1caf85a6/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/sokhona/.gradle/caches/transforms-3/70d454cead1bc97e80aa4f6f1caf85a6/transformed/cardview-v7-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/50d4c2992d50ca090d5ef70735dec982/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/50d4c2992d50ca090d5ef70735dec982/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sokhona/.gradle/caches/transforms-3/61fdb63abccb8324835a3a14226ccbcf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/sokhona/.gradle/caches/transforms-3/61fdb63abccb8324835a3a14226ccbcf/transformed/documentfile-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/62b92e74a560ee1ebb32baf9f36f3ac8/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/sokhona/.gradle/caches/transforms-3/62b92e74a560ee1ebb32baf9f36f3ac8/transformed/localbroadcastmanager-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sokhona/.gradle/caches/transforms-3/df307024b8817cdf91c7ef2f260e9d57/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/sokhona/.gradle/caches/transforms-3/df307024b8817cdf91c7ef2f260e9d57/transformed/print-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f4c1ff7f8aba853531a910ef5bd02e62/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f4c1ff7f8aba853531a910ef5bd02e62/transformed/viewmodel-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sokhona/.gradle/caches/transforms-3/00da622ffc293d6b6cd9af17084c49d4/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/sokhona/.gradle/caches/transforms-3/00da622ffc293d6b6cd9af17084c49d4/transformed/interpolator-28.0.0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f6b10b57234d39b300b2e06b7f2e3db7/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/sokhona/.gradle/caches/transforms-3/f6b10b57234d39b300b2e06b7f2e3db7/transformed/livedata-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sokhona/.gradle/caches/transforms-3/b098413db3d4053653e53dbe9b235bae/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/sokhona/.gradle/caches/transforms-3/b098413db3d4053653e53dbe9b235bae/transformed/livedata-core-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/cf038020c63ab3deff5900ea5c92f6bd/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/sokhona/.gradle/caches/transforms-3/cf038020c63ab3deff5900ea5c92f6bd/transformed/runtime-1.1.1/AndroidManifest.xml:20:5-44
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		ADDED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
+		INJECTED from /home/sokhona/Images/nfc-explorer/app/src/main/AndroidManifest.xml
