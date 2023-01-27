@@ -1,2 +1,2 @@
 # ProjetNFC
-sokhona Diakarou,Sow KAlidou and Ndiaye Mamel alboury
+sokhona Diakarou and Ndiaye Mamel alboury
